@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(255, 0, 0);
+    }
+    #navbar {
+        font-weight: bold;
+        background-color:rgb(30, 3, 179);
+        color: #fff;
+        padding: .5em;
+        
+            display: inline;
+          
+    }
+    
+    body {
+    background-color: rgb(9, 240, 28);
+    }
+    h1{
+        
+        text-align: center;
+    }
+    h4{
+        color: rgb(255, 9, 181);
+    }
+    #Name{
+        color: rgb(252, 187, 8);
+    }
+    #number{
+        color: rgb(255, 0, 21);
+    }
+    #date{
+        color: rgb(245, 9, 9);
+    }
+    #passeword{
+        color: rgb(255, 0, 0);
+    }
